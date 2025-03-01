@@ -1,0 +1,5 @@
+{
+  "buildCommand": "echo 'Deploying static site'",
+  "outputDirectory": ".",
+  "devCommand": "echo 'Development mode'"
+}
