@@ -1,5 +1,6 @@
 {
-  "buildCommand": "echo 'Deploying static site'",
+  "buildCommand": null,
   "outputDirectory": ".",
-  "devCommand": "echo 'Development mode'"
+  "framework": null,
+  "devCommand": null
 }
